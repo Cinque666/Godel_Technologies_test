@@ -15,7 +15,7 @@
         <file.encoding>UTF-8</file.encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>5.2.0.RELEASE</spring.version>
-        <hibernate.version>5.4.3.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
